@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+h2{
+    padding: 20px 0;
+    text-align: center;
+}
+.line {
+    margin: 50px 0;
+    height: 3px;
+    background: #000;
+}
+
+.basic-swiper {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    overflow: hidden;
+    border:1px solid black;
+}
+.basic-swiper2 {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+    border:1px solid black;
+    background: white;
+}
+
+.basic-swiper li {
+    background: gray;
+    height: 300px;
+}
+
+.basic-swiper2 li {
+    background: gray;
+    height: 300px;
+}
+.swiper {
+    width: 600px;
+    height: 300px;
+}
